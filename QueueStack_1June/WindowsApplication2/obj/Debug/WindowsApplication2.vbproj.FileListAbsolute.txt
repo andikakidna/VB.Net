@@ -1,0 +1,30 @@
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\win7u\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Andika\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Andika\Downloads\VB\QueueStack_1June\QueueStack_1June\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Andika\Downloads\VB\QueueStack_1June\QueueStack_1June\obj\Debug\WindowsApplication2.exe
+C:\Users\Andika\Downloads\VB\QueueStack_1June\QueueStack_1June\obj\Debug\WindowsApplication2.xml
+C:\Users\Andika\Downloads\VB\QueueStack_1June\QueueStack_1June\obj\Debug\WindowsApplication2.pdb
+C:\Users\Andika\Downloads\VB\QueueStack_1June\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Andika\Downloads\VB\QueueStack_1June\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Andika\Downloads\VB\QueueStack_1June\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Andika\Downloads\VB\QueueStack_1June\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

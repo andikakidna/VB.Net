@@ -1,0 +1,2 @@
+C:\Users\Andika\documents\visual studio 2013\Projects\LinkList_1June\LinkList_1June\bin\Debug\Dynamic_Array_Numeric_1June.exe.config
+C:\Users\Andika\Downloads\VB\Dynamic_Array_Numeric_1June\LinkList_1June\bin\Debug\Dynamic_Array_Numeric_1June.exe.config
